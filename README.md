@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lepoulpi17&label=Profile%20views&color=0e75b6&style=flat" alt="lepoulpi17" /> </p>
 
-- 🔭 Mon bot multifonction est [SlapyBot](https://slapybot.fr)
+- 🔭 Mon entreprise [Paca Design](https://pacadesign.fr)
 
-- 👯 Un bot permettant de gérer son discord pour FiveM **SlapyGestion**
-
-- 👨‍💻 Tous mes projets sont disponibles sur [https://portfolio.slapybot.fr](https://portfolio.slapybot.fr)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://portfolio.slapybot.fr](https://pacadesign.fr/portfolio)
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
